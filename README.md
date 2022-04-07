@@ -1,7 +1,8 @@
-# [SCOTUS](https://ericaleon.github.io/index_scotus)
+# [SCOTUS](https://ericaleon.github.io/SCOTUS)
 
 ## Case predictor based on Supreme Court makeup. Training a model based on data from court rulings from 1949 to 2017. 
 
+[Link to Presentation](https://docs.google.com/presentation/d/1zswTiJJGOw7Udi3fRBttqA8-didZQ-ZS/edit?usp=sharing&ouid=111575319226180506971&rtpof=true&sd=true)
 
 ### Project Objectives
 
